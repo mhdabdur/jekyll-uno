@@ -5,7 +5,7 @@ categories: [tulisan]
 tags: [tulisan, random]
 ---
 
-```
+``` ruby
 # TL;DR
 1. Mencoba **Progressive Web App** dengan jekyll
 2. Temen-temen gue pada produktif
