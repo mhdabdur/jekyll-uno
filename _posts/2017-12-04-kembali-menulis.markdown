@@ -5,13 +5,13 @@ categories: [tulisan]
 tags: [tulisan, random]
 ---
 
-<mark>
+```
 # TL;DR
 1. Mencoba **Progressive Web App** dengan jekyll
 2. Temen-temen gue pada produktif
 3. Berkarya daripada nganggur (menjadi produktif)
 
-</mark>
+```
 
 Halo guys, ini adalah postingan pertama gue di blog baru gue. Setelah sekitar 3 atau 4 tahun ga nulis lagi di blog, gue harus ngelatih *skill*  gue lagi deh hahaha.
 Oke, alasan gue kembali menulis sebenernya cukup simpel si.
