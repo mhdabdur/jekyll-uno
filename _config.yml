@@ -1,10 +1,10 @@
 # Site settings
 title: mhdabdur
-description: Keajaiban dimulai hari ini
+description: The journey start today
 url: http://mhdabdur.github.io
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
-disqus_shortname: mhdabdur
+disqus_shortname: abdur03
 
 author:
   name: 'Muhammad Abdurrahman'
