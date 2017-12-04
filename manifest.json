@@ -1,0 +1,47 @@
+{
+  "name": "mhdabdur",
+  "short_name": "mhdabdur",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+     "src": "images/favicons/favicon-32x32.png",
+     "sizes": "32x32",
+     "type": "image\/png",
+     "density": "0.75"
+    },
+    {
+     "src": "images/favicons/apple-touch-icon-57x57.png",
+     "sizes": "57x57",
+     "type": "image\/png",
+     "density": "1.0"
+    },
+    {
+     "src": "images/favicons/apple-touch-icon-72x72.png",
+     "sizes": "72x72",
+     "type": "image\/png",
+     "density": "1.5"
+    },
+    {
+     "src": "images/favicons/favicon-96x96.png",
+     "sizes": "96x96",
+     "type": "image\/png",
+     "density": "2.0"
+    },
+    {
+     "src": "images/favicons/apple-touch-icon-144x144.png",
+     "sizes": "144x144",
+     "type": "image\/png",
+     "density": "3.0"
+    },
+    {
+     "src": "images/favicons/favicon-196x196.png",
+     "sizes": "196x196",
+     "type": "image\/png",
+     "density": "4.0"
+    }
+  ]
+}
