@@ -937,9 +937,9 @@ body {
 
 a {
 	text-decoration: none;
-	color: #e25440; }
+	color: #1a8fee; }
 	a:hover {
-		color: #b9301c;
+		color: #232fdf;
 		-o-transition: .5s;
 		-ms-transition: .5s;
 		-moz-transition: .5s;
@@ -1055,7 +1055,7 @@ pre {
 		.time a:hover,
 		.author a:hover,
 		.tags a:hover {
-			color: #b9301c; }
+			color: #232fdf; }
 
 .excerpt {
 	margin: 0;
@@ -1120,7 +1120,7 @@ pre {
 		color: #a6a6a6;
 		text-decoration: underline; }
 		.footer__copyright a:hover {
-			color: #b9301c; }
+			color: #232fdf; }
 
 .avatar,
 .logo {
@@ -1308,17 +1308,17 @@ hr {
 
 .btn, .navigation__item a {
 	padding: 10px 20px;
-	border: 1px solid #e25440;
+	border: 1px solid #1a8fee;
 	border-radius: 20px;
 	font-size: .9em;
 	font-weight: bold;
 	letter-spacing: 1px;
 	text-shadow: none;
-	color: #e25440;
+	color: #1a8fee;
 	-webkit-font-smoothing: antialiased; }
 	.btn:hover, .navigation__item a:hover {
-		color: #b9301c;
-		border-color: #b9301c; }
+		color: #232fdf;
+		border-color: #232fdf; }
 
 .btn-secondary {
 	border-color: #5ba4e5;
@@ -1443,7 +1443,7 @@ i {
 	.post-list__post-title a {
 		color: #333333; }
 		.post-list__post-title a:hover {
-			color: #b9301c; }
+			color: #232fdf; }
 
 .post-list__meta {
 	display: block;
