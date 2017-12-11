@@ -10,7 +10,7 @@ tags: [tulisan, random]
 
 
 Halo guys, ini adalah postingan pertama gue di blog baru gue. Setelah sekitar 3 atau 4 tahun ga nulis lagi di blog, jadi kayaknya gue harus ngelatih *skill*  gue lagi deh.
-Oke, alasan gue kembali menulis sebenernya cukup simpel si. :+1: :cat: :music: :laugh:
+Oke, alasan gue kembali menulis sebenernya cukup simpel si. :+1: :cat: :smile: :people:
 
 ## Jekyll dengan Fitur PWA
 Kenapa harus jekyll? Jadi sebenernya gue bingung nentuin CMS/non-CMS, kalaupun pakai CMS dipikir-pikir lagi masih banyak uang yang harus keluar sedangkan gue belum ada penghasilan. Nah, suatu saat gue 'kesasar' nih ke blognya [petani kode](https://petanikode.com) waktu itu si karena liat postingannya yang rada kocak, disana ternyata dibahas tentang SSG (Static Site Generator) tapi si petani ini makenya HUGO dengan bahasanya yaitu Google Language ([GOLang](https://golang.org)) sedangkan gue sendiri maunya yang pakai bahasa Ruby nih ya jadinya manteplah untuk pakai Jekyll.
