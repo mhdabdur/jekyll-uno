@@ -9,8 +9,13 @@ tags: [tulisan, random]
 <center>Menulis tidak harus di kertas <a href="http://hdfootagestock.com">Source</a></center>
 
 
+<<<<<<< HEAD
 Halo kawan, ini adalah postingan pertama aku di blog baru. Setelah sekitar 3 atau 4 tahun ga nulis lagi di blog, karena dulu menulis tidak dari hati (cielah :smile:)
 Oke, jadi beberapa alasan aku kembali menulis sebenernya cukup simpel si.
+=======
+Halo guys, ini adalah postingan pertama gue di blog baru gue. Setelah sekitar 3 atau 4 tahun ga nulis lagi di blog, jadi kayaknya gue harus ngelatih *skill*  gue lagi deh.
+Oke, alasan gue kembali menulis sebenernya cukup simpel si. :+1: :cat: :smile: :family: :octocat: :basecamp: :trollface:
+>>>>>>> 3593ce8f12c7679b8646c4493ad5338ca1b0c788
 
 ## Jekyll dengan Fitur PWA
 Kenapa harus jekyll? Jadi sebenernya sebelum milih untuk pakai Jekyll rada bingung nih nentuin CMS/non-CMS, kalaupun pakai CMS dipikir-pikir lagi masih banyak uang yang harus aku keluarin sedangkan aku sendiri belum ada penghasilan. Nah, suatu saat 'kesasar' nih ke blognya [petani kode](https://petanikode.com) waktu itu si karena liat postingan di fans-pagenya yang rada kocak, disana ternyata dibahas tentang SSG (Static Site Generator) tapi si petani ini makenya HUGO dengan bahasanya yaitu Google Language ([GOLang](https://golang.org)) sedangkan aku sendiri waktu itu lagi tertarik bahasa Ruby nih ya jadinya manteplah untuk pakai Jekyll.
