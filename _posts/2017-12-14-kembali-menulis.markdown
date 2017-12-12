@@ -10,6 +10,7 @@ tags: [tulisan, random]
 
 
 Halo kawan, ini adalah postingan pertama aku di blog baru. Setelah sekitar 3 atau 4 tahun ga nulis lagi di blog, karena dulu menulis tidak dari hati (cielah :smile:)
+
 Oke, jadi beberapa alasan aku kembali menulis sebenernya cukup simpel si.
 
 ## Jekyll dengan Fitur PWA
@@ -17,6 +18,7 @@ Kenapa harus jekyll? Jadi sebenernya sebelum milih untuk pakai Jekyll rada bingu
 
 Untuk *Progressive Web App (PWA)* sendiri ini kan lagi booming nih, dan pas waktu itu ada *event* GDG chapter Jogja yang lumayan wah karena tempatnya di hotel dan makannya prasmanan, dan materinya waktu itu full ngebahasa PWA nih, akhirnya penasaran dan nyoba-nyoba deh. Cukup mudah sebenernya nerapin PWA di Jekyll sendiri mungkin untuk artikel selanjutnya aku tulis gimana sih caranya. Nah untuk cari tau website/blogmu udah PWA atau belum bisa pakai tools dari chrome yaitu [lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) atau kalau kamu lagi di chrome versi mobile bisa cek di setting terus klik *Add to Homescreen* seperti gambar dibawah
 ![PWA Mobile](http://mhdabdur.me/images/pwa1.jpg)
+
 Taraa! akan ada sebuah aplikasi dengan nama "mhdabdur" dan kawan-kawan bisa coba buka aplikasi itu.
 
 ## Menjadi Lebih Produktif
