@@ -51,4 +51,16 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css?{{site.time | date: '%s%N'}}">
   <link rel="canonical" href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endif %}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml">
+  <script type="text/javascript">
+    var swsource = "/sw.js";
+    if("serviceWorker" in navigator) {
+      navigator.serviceWorker.register(swsource)
+        .then(function(reg){
+          console.log('SW scope: ', reg.scope);
+        })
+        .catch(function(err) {
+          console.log('SW registration failed: ', err);
+        });
+    };
+</script>
 </head>
