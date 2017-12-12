@@ -6,7 +6,7 @@
 <script type="text/javascript" src="{{ site.baseurl }}/js/main.js?{{site.time | date: '%s%N'}}"></script>
 <script type="text/javascript">
   if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.register("{ site.baseurl }}/sw.js").then(function(registration) {
+    navigator.serviceWorker.register("mhdabdur.me/sw.js").then(function(registration) {
       console.log("Service Worker registration successful with scope: ", registration.scope);
     }).catch(function(err) {
       console.log("Service Worker registration failed: ", err);
