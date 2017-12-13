@@ -1,6 +1,6 @@
 ---
 title:  "Kembali Menulis!"
-date:   2017-14-04 03:04:23
+date:   2017-12-12 03:04:23
 categories: [tulisan]
 tags: [tulisan, random]
 ---
