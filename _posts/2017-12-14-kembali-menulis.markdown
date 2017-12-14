@@ -23,9 +23,7 @@ Taraa! akan ada sebuah aplikasi dengan nama "mhdabdur" dan kawan-kawan bisa coba
 
 ## Menjadi Lebih Produktif
 Sebenernya tingkat produktif seseorang itu beda-beda ya tapi aku sendiri beranggapan kalau sampai sekarang belum produktif meskipun dengan banyaknya tugas akhir dari kampus yang ~~menyebalkan~~ tercinta. Kemarin-kemarin sempet dengerin di [inspigo](https://inspigo.id/) nih tentang materi produktifitas dari mba Zivanna Letisha, dan yah aku ngerasa kalau masih jauh dari kata produktif.
-![Inspigo UI Design](https://inspigo.id/img/1920x1280.jpg)
-*Tampilan aplikasi Inspigo. Sumber: [Inspigo.id](https://inspigo.id)*
-
+{% include image.html url="https://inspigo.id/img/1920x1280.jpg" description="Inspigo UI Design." source="https://inspigo.id" DescSource="Inspigo.id" %}
 
 Aku bandingin juga nih sama temen-temen aku, kaya kang Ijal, Jefry, Setyo, dll, masih kurang produktif mah kalau dibandingin mereka. Nah daripada menjadi pengacara (pengangguran banyak acara), mulailah mencoba nulis kembali aja entah tentang apapun itu, keresahan hati, puisi, tutorial-tutorial, pengalaman ikut *event*, dll.
 
