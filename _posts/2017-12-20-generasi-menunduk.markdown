@@ -14,21 +14,32 @@ Sebuah benda tak bernyawa yang dapat menghimnotis ratusan manusia, mungkin puluh
 Aku pernah menjadi seperti mereka, menjadi takluk dan tunduk, berpikir bahwa si telepon pintar memang kawan yang tak tergantikan. Hingga aku bertemu kawan-kawan mengagumkan. Menjadikannya hanya sebatas alat komunikasi dan hiburan kala sendiri. Membuat aturan bahwa si pintar harus dikumpulkan saat kumpul bersama.
 
 *Permisi mas, jalannya bisa lebih cepat? Saya terburu-buru*
+
 Suara lembut yang memecahkan kenangan akan masa lalu.
+
 *Maaf bu, monggo silahkan*
+
 *Ibu?*
 
 Kerut alis menghiasi wajahnya sekilas, dia menatap aneh wajahku lalu berjalan cepat pergi meninggalkanku.
 Tunggu, ada yang aneh dari wanita itu.
 
 *Hei! Nggak bisa lebih lama lagi datengnya? Kursi yang aku duduki udah menjamur ini bosan diduduki pantatku*
+
 Kawan lama mengagetkanku, menghentikan aktivitas penyelidikan terhadap wanita tadi.
+
 *Eh iya sorry, tadi ada masalah sama laptopku, susah ngehubungi kamu jadinya hahaha*
+
 *Inilah kenapa aku memanggilmu kesini, ini terima*
+
 *Kamu tau kenapa aku nggak punya ini? Aku takut menjadi seperti mereka lagi. Selama ini aku pun masih baik-baik saja tanpa ini*
+
 *Tapi susah untuk dihubungi. Itu tergantung mindset mu aja, benda itu kan dibuat untuk memudahkan komunikasi bukan sebaliknya. Untuk apa punya kalau kita lupa cara bertatap muka dan menyapa?*
+
 *Iya aku tau, tapi kamu juga tau kan aku ini introvert*
+
 *Introvert bukan alasan seorang Abraham Lincoln menjadi presiden. Bukan alasan seorang Isyana menjadi ternama*
+
 *Ahh kau benar, kalau begitu terimakasih*
 
 
