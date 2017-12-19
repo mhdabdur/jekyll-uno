@@ -18,7 +18,6 @@ Aku pernah menjadi seperti mereka, menjadi takluk dan tunduk, berpikir bahwa si 
 Suara lembut yang memecahkan kenangan akan masa lalu.
 
 *Maaf bu, monggo silahkan*
-
 *Ibu?*
 
 Kerut alis menghiasi wajahnya sekilas, dia menatap aneh wajahku lalu berjalan cepat pergi meninggalkanku.
@@ -29,7 +28,6 @@ Tunggu, ada yang aneh dari wanita itu.
 Kawan lama mengagetkanku, menghentikan aktivitas penyelidikan terhadap wanita tadi.
 
 *Eh iya sorry, tadi ada masalah sama laptopku, susah ngehubungi kamu jadinya hahaha*
-
 *Inilah kenapa aku memanggilmu kesini, ini terima*
 
 *Kamu tau kenapa aku nggak punya ini? Aku takut menjadi seperti mereka lagi. Selama ini aku pun masih baik-baik saja tanpa ini*
