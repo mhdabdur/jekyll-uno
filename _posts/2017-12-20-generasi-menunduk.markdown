@@ -7,6 +7,8 @@ tags: [tulisan, cerpen]
 
 Lagi-lagi panorama yang terhampar di dalam kedai ini dipenuhi oleh sesak makhluk yang lebih suka menunduk, sedangkan mereka saling berhadap-hadapan. Apakah mereka malu karena tidak saling tahu? Lalu untuk apa mereka bersama dalam satu meja?
 
+{% include image.html url="/images/IMG3.jpg" description="Makhluk menunduk takluk kepada bukan makhluk." source="https://mhdabdur.me" DescSource="dokumen pribadi" %}
+
 *Ah bodoh, tentu saja karena mereka sedang sibuk mengetuk di layar berbentuk balok itu*
 
 Sebuah benda tak bernyawa yang dapat menghimnotis ratusan manusia, mungkin puluhan juta. Menyihir dunia maya terasa lebih menyenangkan ketimbang dunia nyata. Tak ingin menyalahkan mereka, yang mengecap lebih pintar daripada si telepon pintar, tapi nyatanya mereka lupa bagaimana harus saling menyapa.
