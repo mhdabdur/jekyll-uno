@@ -1,5 +1,5 @@
 ---
-title:  "Generasi Menunduk?"
+title:  "Generasi-Genarasi Menunduk?"
 date:   2017-12-20 02:38:24
 categories: [tulisan]
 tags: [tulisan, cerpen]
