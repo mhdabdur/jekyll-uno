@@ -5,10 +5,10 @@ categories: [tulisan]
 tags: [tulisan, random]
 ---
 
+Halo kawan, ini adalah postingan pertama aku di blog baru. Setelah sekitar 3 atau 4 tahun nggak nulis lagi di blog karena dulu menulis tidak dari hati (cielah :smile:), aku pikir jiwa penulis yang dulu ada perlu dihidupkan kembali.
+
 {% include image.html url="https://ak9.picdn.net/shutterstock/videos/14941816/thumb/1.jpg" description="Menulis tidak harus di kertas." source="http://hdfootagestock.com" DescSource="hdfootagestock" %}
 
-
-Halo kawan, ini adalah postingan pertama aku di blog baru. Setelah sekitar 3 atau 4 tahun nggak nulis lagi di blog karena dulu menulis tidak dari hati (cielah :smile:), aku pikir jiwa penulis yang dulu ada perlu dihidupkan kembali.
 
 Oke, jadi beberapa alasan kenapa aku kembali menulis sebenernya cukup simpel si.
 
