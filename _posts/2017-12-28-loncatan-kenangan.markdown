@@ -11,17 +11,17 @@ Terdiam, hingga mata terpejam, diantara padang ilalang tubuhnya bersandar pasa s
 <br />
 Perlahan gerak bibirnya membentuk senyuman, senyuman manis saat ia mengenang waktu bersama seorang gadis. Gadis yang lebih tinggi darinya tetapi tetap menghormati dirinya, gadis yang selalu jengkel ketika ia lupa memotong kukunya.
 <br />
-"Gak keren soalnya kalau nanti ngupas rambutan pakai mulut" <br />
+"Gak keren soalnya kalau nanti ngupas rambutan pakai mulut"<br />
 "Kamu punya jambul udah cukup keren kok, kukunya nggak usah dijambul juga"<br />
 "Udah nggak panas kok"<br />
 "Kenapa?"<br />                 
 "Aku kira tadi itu efek kamu demam, ternyata bukan"<br />
 "Mungkin efek baru sembuhnya kali" <br />
-"Bisa jadi, berarti kamu sakit lagi aja tapi langsung sembuh" <br />
+"Bisa jadi, berarti kamu sakit lagi aja tapi langsung sembuh"<br />
 "Biar bisa digombalin?"<br />
 "Ohh jadi itu cuma sekedar gombalan, nggak tulus dari hati?"<br />
 "Enggak, itu latah aja"<br />
-"Biar bisa latah diapain? Dikagetin gitu?'
+"Biar bisa latah diapain? Dikagetin gitu?"<br />
 "Ga perlu, cukup disayang dan dijaga aja"<br />
 <br />
 Si gadis yang jarang memujinya membuatnya percaya diri bahwa ia lebih tampan melebihi bangsawan.
