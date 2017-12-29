@@ -13,17 +13,17 @@ Perlahan gerak bibirnya membentuk senyuman, senyuman manis saat ia mengenang wak
 <br />
 "Gak keren soalnya kalau nanti ngupas rambutan pakai mulut"<br />
 "Kamu punya jambul udah cukup keren kok, kukunya nggak usah dijambul juga"<br />
-"Udah nggak panas kok"<br />
+"Bandanmu udah nggak panas kok"<br />
 "Kenapa?"<br />                 
 "Aku kira tadi itu efek kamu demam, ternyata bukan"<br />
-"Mungkin efek baru sembuhnya kali" <br />
+"Mungkin efek baru sembuhnya kali"<br />
 "Bisa jadi, berarti kamu sakit lagi aja tapi langsung sembuh"<br />
 "Biar bisa digombalin?"<br />
 "Ohh jadi itu cuma sekedar gombalan, nggak tulus dari hati?"<br />
-"Enggak, itu latah aja"<br />
+"Enggak, itu latah aja hahaha"<br />
 "Biar bisa latah diapain? Dikagetin gitu?"<br />
 "Ga perlu, cukup disayang dan dijaga aja"<br />
-<br />
+
 Si gadis yang jarang memujinya membuatnya percaya diri bahwa ia lebih tampan melebihi bangsawan.
 <br />
 <br />
@@ -49,4 +49,4 @@ Tersadar, loncatan kenangan membawanya kembali ke linimasa saat ini. Rintik tang
 <br />
 <br />
 Bukankah pada akhirnya kenangan memang sulit untuk dilupakan? Terlepas dari baik buruk suatu kenangan, mengapa tidak mencoba melihat dari sisi yang berbeda?
-Dekap kenangan itu, karena Dia tahu bahwa kamu adalah sosok yang pantas menerima kengan itu.
+Mari dekap kenangan itu, karena Dia tahu bahwa kamu adalah sosok yang pantas menerima kenangan itu.

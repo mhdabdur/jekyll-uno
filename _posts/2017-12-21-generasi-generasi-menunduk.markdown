@@ -1,5 +1,5 @@
 ---
-title:  "Generasi-Genarasi Menunduk?"
+title:  "Generasi-Generasi Menunduk?"
 date:   2017-12-20 02:38:24
 categories: [tulisan]
 tags: [tulisan, cerpen]
@@ -7,11 +7,11 @@ tags: [tulisan, cerpen]
 
 Lagi-lagi panorama yang terhampar di dalam kedai ini dipenuhi oleh sesak makhluk yang lebih suka menunduk, sedangkan mereka saling berhadap-hadapan. Apakah mereka malu karena tidak saling tahu? Lalu untuk apa mereka bersama dalam satu meja?
 
-{% include image.html url="/images/IMG3.jpg" description="Makhluk menunduk takluk kepada bukan makhluk." source="https://mhdabdur.me" DescSource="dokumen pribadi" %}
+{% include image.html url="/images/IMG3.jpg" description="Makhluk menunduk tunduk kepada bukan makhluk." source="https://mhdabdur.me" DescSource="dokumen pribadi" %}
 
 *Ah bodoh, tentu saja karena mereka sedang sibuk mengetuk di layar berbentuk balok itu*
 
-Sebuah benda tak bernyawa yang dapat menghimnotis ratusan manusia, mungkin puluhan juta. Menyihir dunia maya terasa lebih menyenangkan ketimbang dunia nyata. Tak ingin menyalahkan mereka, yang mengecap lebih pintar daripada si telepon pintar, tapi nyatanya mereka lupa bagaimana harus saling menyapa.
+Sebuah benda tak bernyawa yang dapat menghipnotis ratusan manusia, mungkin puluhan juta. Menyihir dunia maya terasa lebih menyenangkan ketimbang dunia nyata. Tak ingin menyalahkan mereka, yang mengecap lebih pintar daripada si telepon pintar, tapi nyatanya mereka lupa bagaimana harus saling menyapa.
 
 Aku pernah menjadi seperti mereka, menjadi takluk dan tunduk, berpikir bahwa si telepon pintar memang kawan yang tak tergantikan. Hingga aku bertemu kawan-kawan mengagumkan. Menjadikannya hanya sebatas alat komunikasi dan hiburan kala sendiri. Membuat aturan bahwa si pintar harus dikumpulkan saat kumpul bersama.
 
