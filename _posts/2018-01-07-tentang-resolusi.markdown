@@ -1,6 +1,6 @@
 ---
 title: Tentang Resolusi!
-date: 2018-0¹-07
+date: 2018-01-07 09:53:13
 categories: [tulisan]
 tags: [tulisan]
 ---
