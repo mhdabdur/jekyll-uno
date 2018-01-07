@@ -2,7 +2,7 @@
 title:  "Generasi-Generasi Menunduk?"
 date:   2017-12-20 02:38:24
 categories: [tulisan]
-tags: [tulisan, cerpen]
+tags: [tulisan, cerpen, aku]
 ---
 
 Lagi-lagi panorama yang terhampar di dalam kedai ini dipenuhi oleh sesak makhluk yang lebih suka menunduk, sedangkan mereka saling berhadap-hadapan. Apakah mereka malu karena tidak saling tahu? Lalu untuk apa mereka bersama dalam satu meja?

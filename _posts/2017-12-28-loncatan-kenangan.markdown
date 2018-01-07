@@ -2,6 +2,7 @@
 title: Loncatan Kenangan?
 date: 2017-12-28 05:23:30
 categories: [tulisan]
+tags: [tulisan, cerpen, dia]
 ---
 
 Terdiam, hingga mata terpejam, diantara padang ilalang tubuhnya bersandar pasa sebuah batang. Mengingat kembali segala kenangan yang terjadi saat satu tahun silam. Lompatan-lompatan kenangan membawanya menjauh dari linimasa saat ini.
