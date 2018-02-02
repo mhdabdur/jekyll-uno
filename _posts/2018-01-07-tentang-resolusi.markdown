@@ -6,7 +6,7 @@ tags: [tulisan]
 ---
 
 Resolusi, seharusnya menjadi solusi mendapatkan hidup yang lebih baik lagi. Bukan hanya menjadi ajang pameran pada story-story di media sosial saat ini.
-<br/>
+
 <br/>
 Membuat sebuah resolusi harusnya didasari oleh hati, bukan hanya menjadi mimpi-mimpi di malam hari.
 Bukan hanya menjadikanmu termotivasi, tetapi juga mengetahui tempat dimana kamu harus berdiri nanti.
