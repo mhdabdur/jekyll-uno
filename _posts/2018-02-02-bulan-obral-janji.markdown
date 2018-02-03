@@ -11,7 +11,7 @@ Februari, bulan penuh cinta, katanya. Tapi yang kuterima hanya janji-janji, menu
 Disaat yang sama dia datang tanpa aba-aba, mendobrak pintu hati yang sudah tertutup rapat untukmu, dengan sebuah cokelat dan sebuah surat. Meminta aku menjadi pasangannya dikemudian hari, berjanji untuk mencintai sepenuh hati.
 <br/>
 <br/>
-Hati dan akalku tidak selaras, sang hati meminta agar tetap menanti tapi akalku memilih dia yang mencintai sepenuh hati. Ketika aku hendak memilihnya, ternyata dia sudah bersama wanitanya, dan ketika aku memilih menantimu, kuterima surat pernikahanmu
+Hati dan akalku tidak selaras, sang hati meminta agar tetap menanti tapi akalku memilih dia yang mencintai sepenuh hati. Ketika aku hendak memilihnya, ternyata dia sudah bersama pasangannya, dan ketika aku memilih menantimu, kuterima surat pernikahanmu
 <br/>
 <br/>
 Februari, bukan bulan penuh cinta, hanya bulan pengundang lara. Dimana manusia banyak mengobral cintanya, janji manisnya, lalu pergi begitu saja. Mengatakan sumpah setia, mengatasnamakan sebuah cinta, tapi nyata berkhianat dengan segala cara
