@@ -2,7 +2,7 @@
 title: Tentang Resolusi!
 date: 2018-01-07 09:53:13
 categories: [tulisan]
-tags: [tulisan]
+tags: [tulisan, motivasi]
 ---
 
 Resolusi, seharusnya menjadi solusi mendapatkan hidup yang lebih baik lagi. Bukan hanya menjadi ajang pameran pada story-story di media sosial saat ini.
