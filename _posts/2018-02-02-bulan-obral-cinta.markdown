@@ -2,7 +2,7 @@
 title:  "Bulan Obral Cinta?"
 date:   2018-02-02 02:02:22
 categories: [tulisan]
-tags: [tulisan, random]
+tags: [tulisan, sajak, februari]
 ---
 
 Februari, bulan penuh cinta, katanya. Tapi yang kuterima hanya janji-janji, menunggu kabar yang tak lekas kembali. Hingga langit diatas mulai bosan menumpahkan tangisnya, untuk menutupi air mata kesedihan yang mengalir dari bola mataku. Begitu pula sang bintang, bosan menampakkan sinarnya menemani gelapnya hari tanpamu.
