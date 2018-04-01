@@ -1,0 +1,8 @@
+---
+title:  "$100 Pertama!"
+date:   2018-04-01 17:16:15
+categories: [tulisan]
+tags: [tulisan, blog, motivasi]
+---
+
+{% include tldr.html list1="Hasil tidak pernah mengkhianati proses" list2="Jangan termakan oleh passion" list3="Keep movin', be chillin'"
