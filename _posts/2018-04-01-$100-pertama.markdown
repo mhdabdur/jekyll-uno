@@ -1,15 +1,20 @@
 ---
-title:  "$100 Pertama!"
+title:  "Kuliah dan Bekerja?"
 date:   2018-04-01 17:16:15
 categories: [tulisan]
 tags: [tulisan, blog, motivasi]
 ---
 
-<div style="background-color: #6ee6fc">
-    <h1 style="font-family: sans-serif;color:#ffffff;margin-left: 25px">TL;DR</h1>
-    <ol style="margin-bottom:25px">
+<div style="background-color: #6ee6fc;padding-bottom:15px">
+    <h1 style="font-family: sans-serif;margin-left: 25px"><strong>TL;DR</strong></h1>
+    <ol style="color:#ffffff">
         <li>Hasil selalu mengikuti proses</li>
         <li>Jangan termakan passion</li>
         <li>Keep movin', still chillin'</li>
     </ol>
 </div>
+
+Tidak seperti biasanya, tulisan saya kali ini tidak ada sajak ataupun puisi melankolis yang sedikit dramatis. :sweat_smile:
+Tulisan saya kali ini ingin berbagi tentang sebuah hasil yang didapat ketika kita ingin berusaha dan menikmati prosesnya. Tapi sebelum baca, jawab dulu pertanyaan saya yang menjadi judul postingan ini. Atau kamu malah sengaja kemari karena bingung jawabannya? Maka semoga menemukan jawabanya di tulisan ini yak. :slightly_smiling_face:
+
+## Hasil Selalu Mengikuti Proses
