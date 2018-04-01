@@ -6,8 +6,8 @@ tags: [tulisan, blog, motivasi]
 ---
 
 <div style="background-color: #6ee6fc;padding-bottom:15px">
-    <h1 style="font-family: sans-serif;margin-left: 25px"><strong>TL;DR</strong></h1>
-    <ol style="color:#ffffff">
+    <h1 style="font-family: sans-serif;margin-left: 15px 0 25px"><strong>TL;DR</strong></h1>
+    <ol>
         <li>Hasil selalu mengikuti proses</li>
         <li>Jangan termakan passion</li>
         <li>Keep movin', still chillin'</li>
