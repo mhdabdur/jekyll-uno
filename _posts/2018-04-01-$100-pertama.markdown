@@ -5,4 +5,11 @@ categories: [tulisan]
 tags: [tulisan, blog, motivasi]
 ---
 
-{% include tldr.html index="2" list1="Hasil tidak pernah mengkhianati proses" list2="Jangan termakan oleh passion" %}
+<div style="background-color: #6ee6fc">
+    <h1 style="font-family: sans-serif;color:#ffffff;margin-left: 25px">TL;DR</h1>
+    <ol style="margin-bottom:25px">
+        <li>Hasil selalu mengikuti proses</li>
+        <li>Jangan termakan passion</li>
+        <li>Keep movin', still chillin'</li>
+    </ol>
+</div>
