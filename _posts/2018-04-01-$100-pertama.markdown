@@ -6,7 +6,7 @@ tags: [tulisan, blog, motivasi]
 ---
 
 <div style="background-color: #6ee6fc;padding-bottom:15px">
-    <h1 style="font-family: sans-serif;margin-left: 15px 0 25px"><strong>TL;DR</strong></h1>
+    <h1 style="font-family: sans-serif;margin: 15px 0 25px"><strong>TL;DR</strong></h1>
     <ol>
         <li>Hasil selalu mengikuti proses</li>
         <li>Jangan termakan passion</li>
@@ -15,6 +15,7 @@ tags: [tulisan, blog, motivasi]
 </div>
 
 Tidak seperti biasanya, tulisan saya kali ini tidak ada sajak ataupun puisi melankolis yang sedikit dramatis. :sweat_smile:
+
 Tulisan saya kali ini ingin berbagi tentang sebuah hasil yang didapat ketika kita ingin berusaha dan menikmati prosesnya. Tapi sebelum baca, jawab dulu pertanyaan saya yang menjadi judul postingan ini. Atau kamu malah sengaja kemari karena bingung jawabannya? Maka semoga menemukan jawabanya di tulisan ini yak. :slightly_smiling_face:
 
 ### Hasil Selalu Mengikuti Proses
