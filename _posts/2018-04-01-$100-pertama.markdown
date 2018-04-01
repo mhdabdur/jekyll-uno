@@ -6,7 +6,7 @@ tags: [tulisan, blog, motivasi]
 ---
 
 <div style="background-color: #6ee6fc;padding-bottom:15px">
-    <h1 style="font-family: sans-serif;margin: 15px 0 25px"><strong>TL;DR</strong></h1>
+    <h1 style="font-family: sans-serif;margin: 15px 0 25px 25px"><strong>TL;DR</strong></h1>
     <ol>
         <li>Hasil selalu mengikuti proses</li>
         <li>Jangan termakan passion</li>
@@ -19,3 +19,6 @@ Tidak seperti biasanya, tulisan saya kali ini tidak ada sajak ataupun puisi mela
 Tulisan saya kali ini ingin berbagi tentang sebuah hasil yang didapat ketika kita ingin berusaha dan menikmati prosesnya. Tapi sebelum baca, jawab dulu pertanyaan saya yang menjadi judul postingan ini. Atau kamu malah sengaja kemari karena bingung jawabannya? Maka semoga menemukan jawabanya di tulisan ini yak. :slightly_smiling_face:
 
 ### Hasil Selalu Mengikuti Proses
+Hari gini masih nggak percaya sama proses? 2018 bro, jangan percaya lagi yang pakai ambal-ambal instan, mie instant aja kudu dimasak dulu nggak baik kalau langsung dimakan. Selalu berproses itu yang terpenting, entah itu sedikit banget yang penting berproseslah maka hasil akan mengikutinya.
+
+Dulu saya sendiri juga
