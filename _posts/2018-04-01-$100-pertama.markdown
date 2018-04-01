@@ -5,4 +5,4 @@ categories: [tulisan]
 tags: [tulisan, blog, motivasi]
 ---
 
-{% include tldr.html list1="Hasil tidak pernah mengkhianati proses" list2="Jangan termakan oleh passion" list3="Keep movin', be chillin'" %}
+{% include tldr.html list1="Hasil tidak pernah mengkhianati proses" list2="Jangan termakan oleh passion" %}
