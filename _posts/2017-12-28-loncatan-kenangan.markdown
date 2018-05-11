@@ -28,10 +28,9 @@ Perlahan gerak bibirnya membentuk senyuman, senyuman manis saat ia mengenang wak
 Si gadis yang jarang memujinya membuatnya percaya diri bahwa ia lebih tampan melebihi bangsawan.
 <br />
 <br />
+Tiba-tiba senyumnya hilang berganti kesedihan, ketika loncatan kenangan membawanya bertemu akhir cerita mereka. Gemuruh hati riuh bersuara di hatinya, sebab tahu bagian ini yang selalu membuatnya emosi tak terkira.
 <br />
-Senyumnya hilang berganti kesedihan, ketika loncatan kenangan membawanya bertemu akhir cerita mereka. Gemuruh hati riuh bersuara di hatinya, sebab tahu bagian ini yang selalu membuatnya emosi.
-<br />
-"Aku nggak tau kenapa tapi aku rasa dia masih suka kamu" <br />
+"Aku nggak tau kenapa tapi aku rasa dia masih suka kamu" sang gadis memulai percakapan<br />
 "Lalu? Urusan hatinya bukan lagi urusanku. Dia membuat keputusan meninggalkan tanpa memberi kabar" <br />
 "Iya tapi aku rasa hubungan kalian masih ada"<br />
 "Nggak, satu-satunya wanita yang sedang kucintai selain ibuku adalah kamu"<br />
