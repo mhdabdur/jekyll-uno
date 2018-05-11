@@ -12,12 +12,12 @@ Terdiam, hingga mata terpejam, diantara padang ilalang tubuhnya bersandar pasa s
 <br />
 Perlahan gerak bibirnya membentuk senyuman, senyuman manis saat ia mengenang waktu bersama seorang gadis. Gadis yang lebih tinggi darinya tetapi tetap menghormati dirinya, gadis yang selalu jengkel ketika ia lupa memotong kukunya.
 <br />
-"Gak keren soalnya kalau nanti ngupas rambutan pakai mulut"<br />
+"Gak keren soalnya kalau nanti ngupas rambutan pakai mulut" katanya beralasan<br />
 "Kamu punya jambul udah cukup keren kok, kukunya nggak usah dijambul juga"<br />
-"Bandanmu udah nggak panas kok"<br />
+"Bandanmu udah nggak panas kok" katanya memegang dahi si gadis<br />
 "Kenapa?"<br />                 
 "Aku kira tadi itu efek kamu demam, ternyata bukan"<br />
-"Mungkin efek baru sembuhnya kali"<br />
+"Mungkin efek baru sembuhnya kali" sangkal sang gadis<br />
 "Bisa jadi, berarti kamu sakit lagi aja tapi langsung sembuh"<br />
 "Biar bisa digombalin?"<br />
 "Ohh jadi itu cuma sekedar gombalan, nggak tulus dari hati?"<br />
