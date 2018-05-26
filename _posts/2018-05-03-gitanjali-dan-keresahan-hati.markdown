@@ -19,14 +19,12 @@ Maka pada akhir April sebelum ujian memantapkan hati untuk undur diri dari peker
 Transisi dari bekerja hingga harus fokus kembali kuliah (ujian) nyatanya membuat hati menjadi gelisah. Menghabiskan simpanan gaji terakhir untuk berfoya-foya yang nyatanya masih membuat hati gelisah. Hingga pada akhir April saya putuskan membaca buku Gitanjali yang tak tahu apa maknanya, siapa penulisnya, yang saya tahu bukanlah sebuah buku kumpulan puisi. Mari saya kenalkan kepada Gitanjali
 
 Judul: Gitanjali
-
 Penulis: Febrialdi R ([@edelweisbasah](https://twitter.com/edelweisbasah))
-
 Penerbit: mediakita
-
 Cetakan pertama, 2018
 
 Sejauh apa pun bertualang, perjalanan mengajarkan bahwa hidup memang tidak mudah dipahami tetapi dijalani (hlm. 295)
+
 ***
 
 Adalah Ed, seorang lelaki yang hendak melakukan pendakian *The Seven Summits of Indonesia* (puncak-puncak tertinggi di Indonesia), untuk ia persembahkan kepada Ine, kekasihnya. Siapa yang tidak pernah menjadi seperti Ed, mempersembahkan sesuatu diluar batas kemampuannya untuk pasangannya. Bukankah itu seperti kewajiban jika mencintai? Harus ada sebuah persembahan.
