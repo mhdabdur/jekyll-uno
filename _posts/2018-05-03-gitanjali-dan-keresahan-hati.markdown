@@ -16,7 +16,7 @@ Ahh rasanya lagu itu cocok menjadi pengingat ketika akan bekerja kembali nanti. 
 Maka pada akhir April sebelum ujian memantapkan hati untuk undur diri dari pekerjaan meskipun masih tertarik dengan sebuah gaji dan memutuskan untuk magang pada sebuah studio desain untuk menggali ilmu lebih dalam lagi. Satu minggu sebelum undur diri, sebuah buku sebagai proyek "1 bulan 1 buku" dapat terbeli dengan judul buku **Gitanjali** atas rekomendasi bung [Rizqy](https://rizqy.me).
 
 ### Tembang Persembahan untuk Hati
-Transisi dari bekerja hingga harus fokus kembali kuliah (ujian) nyatanya membuat hati menjadi gelisah. Menghabiskan simpanan gaji terakhir untuk berfoya-foya yang nyatanya masih membuat hati gelisah. Hingga pada akhir April saya putuskan membaca buku Gitanjali yang tak tahu apa maknanya, siapa penulisnya, yang saya tahu bukanlah sebuah buku kumpulan puisi. Mari saya kenalkan kepada Gitanjali
+Transisi dari bekerja hingga harus fokus kembali kuliah (ujian) nyatanya membuat hati menjadi gelisah. Menghabiskan simpanan gaji terakhir untuk berfoya-foya yang nyatanya masih membuat hati gelisah. Hingga pada akhir April saya putuskan untuk membaca buku Gitanjali yang tidak tahu apa maknanya, siapa penulisnya, yang saya tahu buku ini bukanlah sebuah buku kumpulan puisi. Mari saya kenalkan kepada Gitanjali
 
 Judul: Gitanjali<br />
 Penulis: Febrialdi R ([@edelweisbasah](https://twitter.com/edelweisbasah))<br />
@@ -31,7 +31,9 @@ Adalah Ed, seorang lelaki yang hendak melakukan pendakian *The Seven Summits of 
 
 Tetapi ada yang lebih menarik daripada sebuah kisah klasik romantis antara Ed dan Ine. Penulis mampu menyadarkan dan memberi banyak jawaban atas pertanyaan-pertanyaan para petualang (alam dan cinta). Apakah harus merelakan dia yang sudah tak pernah ada ketika terjadi bencana? Apakah memang niat untuk menjelajah alam sebagai bentuk kebebasan? Apakah arti bertualang hanya sekedar melihat alam?
 
-Sebuah novel dimana kamu akan menyadari apa arti mendaki sebuah gunung, bagaimana harus bersikap saat jatuh cinta dan patah hati, serta tujuan kamu hadir di dunia ini. Dikemas dengan gaya bahasa yang sederhana namun dapat membawa emosi masuk ke dalam jiwa, serta candaan khas anak muda para pendaki gunung.
+Sebuah novel dimana kamu akan menyadari apa arti mendaki sebuah gunung, bagaimana harus bersikap saat jatuh cinta dan patah hati, serta apa tujuan hadir di dunia ini. Dikemas dengan gaya bahasa yang sederhana dan tokoh Ed yang pecundang dapat membawa emosi masuk ke dalam jiwa serta candaan khas anak muda para pendaki gunung, membuat saya tidak bisa berhenti untuk terus membaca hingga akhir.
 
-<center>*Dirimu adalah semesta, tempat aku ingin berkelana.
-Hatimu adalah rumah, tempat aku ingin tinggal selamanya.*</center>
+<center style="line-height:2em;font-style:italic">"Dirimu adalah semesta, tempat aku ingin berkelana.<br/>
+Hatimu adalah rumah, tempat aku ingin tinggal selamanya."</center>
+
+Saya rasa sudah cukup perkenalan dengan Gitanjali, masih belum ingin membeli buku ini?
