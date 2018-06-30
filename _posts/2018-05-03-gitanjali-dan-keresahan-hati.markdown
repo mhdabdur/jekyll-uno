@@ -5,18 +5,18 @@ categories: [tulisan]
 tags: [tulisan, review]
 ---
 
-April hingga Mei kali ini begitu berkesan, dimulai saat harus berjibaku dengan kerasnya dunia kerja meski sudah bekerja remote (baca: [kuliah dan kerja mudah](https://mhdabdur.me/kuliah-dan-kerja.html)) hingga harus resign dan memulai babak kerja (magang) di sebuah studio, lalu ada hati yang mulai gelisah karena terpaut oleh hati yang lain, dan diakhiri oleh kegelisahan hati berebut tiket konser Pandji. Selamat menikmati sebuah kilas balik di dunia saya.
+April hingga Mei kali ini begitu berkesan, dimulai saat harus berjibaku dengan kerasnya dunia kerja meski sudah bekerja remote (baca: [kuliah dan kerja mudah](https://mhdabdur.me/kuliah-dan-kerja.html)) hingga harus resign dan memulai babak kerja (magang) baru di sebuah studio, lalu ada hati yang mulai gelisah karena terpaut oleh hati yang lain, dan diakhiri oleh kegelisahan hati berebut tiket konser Pandji. Maka selamat menikmati sebuah kilas balik dan semoga dapat mengambil pelajaran baik dari kehidupan saya.
 
 {% include image.html url="/images/senja_dan_kamu.jpg" description="Antara kamu atau sang senja." source="https://mhdabdur.me" DescSource="dokumen pribadi" %}
 
-### Dilema Kerja April
+### April dan Dilema Bekerja
 "Bekerja bersama hati, kita ini insan bukan seekor sapi"
 Ahh rasanya lagu itu cocok menjadi pengingat ketika akan bekerja kembali nanti. Kuliah kerja memang tidak susah, tetapi akan berbeda jika bekerja tidak menggunakan hati dan hanya tergiur pada sebuah gaji. Terlebih jika *client* tidak puas atas apa yang kamu kerjakan maka ada baiknya undur diri. Sempat gelisah apakah memang harus mengundurkan diri? Sementara banyak hal yang ingin dimiliki dengan hasil kerja keras sendiri.
 
 Maka pada akhir April sebelum ujian memantapkan hati untuk undur diri dari pekerjaan meskipun masih tertarik dengan sebuah gaji dan memutuskan untuk magang pada sebuah studio desain untuk menggali ilmu lebih dalam lagi. Satu minggu sebelum undur diri, sebuah buku sebagai proyek "1 bulan 1 buku" dapat terbeli dengan judul buku **Gitanjali** atas rekomendasi bung [Rizqy](https://rizqy.me).
 
 ### Tembang Persembahan untuk Hati
-Transisi dari bekerja hingga harus fokus kembali kuliah (ujian) nyatanya membuat hati menjadi gelisah. Menghabiskan simpanan gaji terakhir untuk berfoya-foya yang nyatanya masih membuat hati gelisah. Hingga pada akhir April saya putuskan untuk membaca buku Gitanjali yang tidak tahu apa maknanya, siapa penulisnya, yang saya tahu buku ini bukanlah sebuah buku kumpulan puisi. Mari saya kenalkan kepada Gitanjali
+Transisi dari bekerja hingga harus fokus kembali kuliah (ujian) nyatanya membuat hati menjadi gelisah. Menghabiskan simpanan gaji terakhir untuk berfoya-foya yang nyatanya masih membuat hati gelisah membuat saya terus mencari apa yang sebenarnya dicari. Hingga pada akhir April saya putuskan untuk membaca buku Gitanjali yang tidak tahu apa maknanya, siapa penulisnya, yang saya tahu buku ini bukanlah sebuah buku kumpulan puisi. Mari saya kenalkan kepada Gitanjali.
 
 Judul: Gitanjali<br />
 Penulis: Febrialdi R ([@edelweisbasah](https://twitter.com/edelweisbasah))<br />
@@ -36,4 +36,6 @@ Sebuah novel dimana kamu akan menyadari apa arti mendaki sebuah gunung, bagaiman
 <center style="line-height:2em;font-style:italic">"Dirimu adalah semesta, tempat aku ingin berkelana.<br/>
 Hatimu adalah rumah, tempat aku ingin tinggal selamanya."</center>
 
-Saya rasa sudah cukup perkenalan dengan Gitanjali, masih belum ingin membeli buku ini?
+Saya rasa sudah cukup perkenalan dengan Gitanjalinya, masih belum ingin membaca buku ini? Jika bukan seorang petualang ataupun pencari obat kegelisahan saya kira wajar, selain itu tidak ada alasan untuk tidak membaca buku ini. Dan semoga setelah membaca buku ini kita dapat mengambil segala pesan yang ingin disampaikan oleh penulisnya
+
+### Mei dan Perebutan Hati
