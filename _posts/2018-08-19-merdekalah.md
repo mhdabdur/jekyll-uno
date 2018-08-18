@@ -5,13 +5,13 @@ categories: [tulisan]
 tags: [tulisan, motivasi]
 ---
 
-{% include image.html url="https://cdn.dribbble.com/users/787324/screenshots/4967154/attachments/1113170/dirgahayu_indonesia_2x.jpg" source="https://dribbble.com/shots/4967154-Dirgahayu-Indonesia" DescSource="Desain ilustrasi oleh Zazuly Aziz" %}
-
 73 tahun negeri ini sudah merdeka dengan gembira
 lalu apakah jiwamu tidak terbelenggu pada pekerjaan?
 berlalu-lalang layaknya manusia tiruan tanpa akal
 demi setumpuk kertas yang katanya sangat berharga
 kau gadai kemerdekaanmu pada korporasi-korporasi
+
+{% include image.html url="https://cdn.dribbble.com/users/787324/screenshots/4967154/attachments/1113170/dirgahayu_indonesia_2x.jpg" source="https://dribbble.com/shots/4967154-Dirgahayu-Indonesia" DescSource="Desain ilustrasi oleh Zazuly Aziz" %}
 
 lalu kau teriakkan MERDEKA ATAU MATI!
 padahal jiwamu menjerit tersakiti
