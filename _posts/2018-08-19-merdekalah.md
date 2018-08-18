@@ -5,7 +5,7 @@ categories: [tulisan]
 tags: [tulisan, motivasi]
 ---
 
-{% include image.html url="https://cdn.dribbble.com/users/787324/screenshots/4967154/attachments/1113170/dirgahayu_indonesia_2x.jpg" description="73 tahun Indonesia merdeka" source="https://dribbble.com/shots/4967154-Dirgahayu-Indonesia" DescSource="Desain ilustrasi oleh Zazuly Aziz" %}
+{% include image.html url="https://cdn.dribbble.com/users/787324/screenshots/4967154/attachments/1113170/dirgahayu_indonesia_2x.jpg" source="https://dribbble.com/shots/4967154-Dirgahayu-Indonesia" DescSource="Desain ilustrasi oleh Zazuly Aziz" %}
 
 73 tahun negeri ini sudah merdeka dengan gembira
 lalu apakah jiwamu tidak terbelenggu pada pekerjaan?
