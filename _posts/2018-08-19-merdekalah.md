@@ -6,10 +6,9 @@ tags: [tulisan, motivasi]
 ---
 
 73 tahun negeri ini sudah merdeka dengan gembira<br />
-lalu apakah jiwamu tidak terbelenggu pada pekerjaan?<br />
-berlalu-lalang layaknya manusia tiruan tanpa akal<br />
+lalu apakah jiwamu tidak terbelenggu untuk selalu bekerja?<br />
+berlalu-lalang layaknya manusia tiruan tanpa akal pikiran<br />
 demi setumpuk kertas yang katanya sangat berharga<br />
-kau gadai kemerdekaanmu pada korporasi-korporasi<br />
 
 {% include image.html url="https://cdn.dribbble.com/users/787324/screenshots/4967154/attachments/1113170/dirgahayu_indonesia_2x.jpg" source="https://dribbble.com/shots/4967154-Dirgahayu-Indonesia" DescSource="Desain ilustrasi oleh Zazuly Aziz" %}
 
@@ -23,8 +22,9 @@ tapi terbebas dari batasan bercita-cita tinggi<br />
 mengusahakan sepenuh hati tanpa sifat arogansi<br />
 lalu bersyukur atas segala yang telah diberikan<br />
 
-merdekalah dari kebodohan untuk membaca buku<br />
-merdekalah dari kebutaan akan permusuhan<br />
+merdekalah dari kebutaan untuk membaca<br />
+merdekalah dari kebodohan akan permusuhan<br />
 merdekalah dari kebisuan menyuarakan pendapat<br />
 merdekalah dari ketulian akan perdamaian<br />
+merdekalah dari kemalasan untuk berkarya<br />
 merdekalah jiwa yang terjajah!
