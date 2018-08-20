@@ -8,7 +8,7 @@ tags: [tulisan, motivasi]
 73 tahun negeri ini sudah merdeka dengan gembira<br />
 lalu apakah jiwamu tidak terbelenggu untuk selalu bekerja?<br />
 berlalu-lalang layaknya manusia tiruan tanpa akal pikiran<br />
-demi setumpuk kertas yang katanya sangat berharga<br />
+demi setumpuk kertas yang kau bangga-banggakan<br />
 
 {% include image.html url="https://cdn.dribbble.com/users/787324/screenshots/4967154/attachments/1113170/dirgahayu_indonesia_2x.jpg" source="https://dribbble.com/shots/4967154-Dirgahayu-Indonesia" DescSource="Desain ilustrasi oleh Zazuly Aziz" %}
 
