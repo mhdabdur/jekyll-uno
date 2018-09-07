@@ -1,6 +1,14 @@
+---
+title: Pesan untuk Puan
+date: 2018-07-09 21:53:13
+categories: [tulisan]
+tags: [tulisan, sajak]
+---
+
 Kepada puan yang kini menjelma menjadi seorang teman<br>
 Jika para pujangga menorehkan tinta menuliskan hujan di bulan Juni <br>
 Maka aku akan membuka lembaran baru bersama pelangi di bulan Juni <br>
+<br>
 <br>
 Dan semesta terkadang selucu itu <br>
 Berawal dari bercanda <br>
