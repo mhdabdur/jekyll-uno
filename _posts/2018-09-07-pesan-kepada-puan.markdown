@@ -7,8 +7,8 @@ tags: [tulisan, sajak]
 
 Kepada puan yang kini menjelma menjadi seorang teman<br>
 Jika para pujangga menorehkan tinta menuliskan hujan di bulan Juni <br>
-Maka aku akan membuka lembaran baru bersama pelangi di bulan Juni <br>
-<br>
+Maka aku akan membuka lembaran baru bersama pelangi di bulan Juni
+
 <br>
 Dan semesta terkadang selucu itu <br>
 Berawal dari bercanda <br>
