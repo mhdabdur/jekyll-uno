@@ -1,6 +1,6 @@
 ---
 title: Pesan kepada Puan
-date: 2018-07-09 21:53:13
+date: 2018-09-07 21:53:13
 categories: [tulisan]
 tags: [tulisan, sajak]
 ---
